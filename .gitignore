@@ -23,7 +23,7 @@ build/
 # Secrets & local config
 .env
 .mcp.json
-.claude/settings.local.json
+.claude/
 
 # OS
 .DS_Store
