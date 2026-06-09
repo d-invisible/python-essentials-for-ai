@@ -1,0 +1,12 @@
+# Core learning environment
+ipykernel>=6.29
+jupyter>=1.1
+
+# Per-topic libraries are appended below as we progress through the curriculum.
+# Examples (commented until needed):
+# pydantic>=2.7
+# fastapi>=0.115
+# uvicorn[standard]>=0.30
+# httpx>=0.27
+# pytest>=8.3
+# anthropic>=0.40

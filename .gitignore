@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+basics_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Secrets & local config
+.env
+.mcp.json
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (used by MCP npx)
+node_modules/
