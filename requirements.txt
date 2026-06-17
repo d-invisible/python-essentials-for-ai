@@ -2,6 +2,9 @@
 ipykernel>=6.29
 jupyter>=1.1
 
+# 05_typing_and_protocols
+mypy>=1.11
+
 # Per-topic libraries are appended below as we progress through the curriculum.
 # Examples (commented until needed):
 # pydantic>=2.7
